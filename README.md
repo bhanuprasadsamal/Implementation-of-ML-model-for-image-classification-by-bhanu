@@ -11,7 +11,7 @@ mentor name is -  Abdul Aziz Md
 5. After all of that then run this commant -  streamlit run new_app
 6. make sure that for run the cifar10 model111.h5 required
 
-#ABSTRACT
+##ABSTRACT
 This project, Implementation of an ML Model for Image Classification, addresses the challenge of accurate and efficient categorization of images into predefined classes. The problem stems from the increasing volume of visual data and the need for automated systems capable of extracting meaningful insights.
 The primary objective of this project is to develop a machine learning model, specifically leveraging Convolutional Neural Networks (CNNs), to classify images with high precision and minimal error rates. The methodology includes preprocessing the dataset through normalization and augmentation, designing a CNN architecture tailored for the task, and training the model using a supervised learning approach. Tools such as TensorFlow and Python were employed to implement the solution.
 Key results demonstrated the efficacy of the model, achieving an accuracy of over 90% on the CIFAR-10 dataset. Performance metrics such as precision, recall, and F1-score further validate the robustness of the approach.
